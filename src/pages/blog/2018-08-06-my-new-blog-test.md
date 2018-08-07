@@ -9,7 +9,5 @@ description: >+
 
 tags:
   - FirstBlog
-  - 'C#'
-  - .NET
 ---
 Hello guys. I think you did an amazing job!. Keep up the good work and always remember that with great power comes great responsibility!. With your good work I am going to publish my very own first blog!
